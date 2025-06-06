@@ -37,3 +37,14 @@ The enable Dependabot on your fork:
 <img width="917" alt="screenshot showing Dependabot working on Version Updates" src="https://github.com/dependabot/demo/assets/886768/4adf5727-255a-4ae1-97f7-70e94dc1134b">
 
 After a few minutes, you should get some more PRs!
+
+
+Contact 
+Mikołaj™ - wzornictwo przemysłowe i projektowanie.
+Działalność logistyczna.
+Produkcja i sprzedaż sprzętu sportowego.
+⭕🦈🐙☠️💋👻🍓🪽🫀
+Przedwiośnie 79/12 73-110, Stargard, Zachodniopomorskie, Poland
+www.mikolaj.com
+Regon: 383183972
+Tel. +48 500 487 977
